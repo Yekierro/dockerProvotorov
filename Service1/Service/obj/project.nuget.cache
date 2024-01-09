@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "rucx5znBbGIquqFCyzbx0+IKP0C9ENy0WsM6cN8L7mKTwbHQN+mHPcghrlkNetY2WzNEM4XZaOJgQGx2G6s6OQ==",
+  "success": true,
+  "projectFilePath": "E:\\Projects\\FOR_DELETE\\project_hleba\\Service1\\Service\\Service.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\andre\\.nuget\\packages\\rabbitmq.client\\7.0.0-alpha.2\\rabbitmq.client.7.0.0-alpha.2.nupkg.sha512",
+    "C:\\Users\\andre\\.nuget\\packages\\system.io.pipelines\\8.0.0\\system.io.pipelines.8.0.0.nupkg.sha512",
+    "C:\\Users\\andre\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\andre\\.nuget\\packages\\system.threading.channels\\8.0.0\\system.threading.channels.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

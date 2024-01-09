@@ -1,0 +1,10 @@
+E:\Projects\FOR_DELETE\project_hleba\Service\bin\Release\net7.0\publish\Service.exe
+E:\Projects\FOR_DELETE\project_hleba\Service\bin\Release\net7.0\publish\appsettings.Development.json
+E:\Projects\FOR_DELETE\project_hleba\Service\bin\Release\net7.0\publish\appsettings.json
+E:\Projects\FOR_DELETE\project_hleba\Service\bin\Release\net7.0\publish\Service.dll
+E:\Projects\FOR_DELETE\project_hleba\Service\bin\Release\net7.0\publish\Service.deps.json
+E:\Projects\FOR_DELETE\project_hleba\Service\bin\Release\net7.0\publish\Service.runtimeconfig.json
+E:\Projects\FOR_DELETE\project_hleba\Service\bin\Release\net7.0\publish\Service.pdb
+E:\Projects\FOR_DELETE\project_hleba\Service\bin\Release\net7.0\publish\RabbitMQ.Client.dll
+E:\Projects\FOR_DELETE\project_hleba\Service\bin\Release\net7.0\publish\System.IO.Pipelines.dll
+E:\Projects\FOR_DELETE\project_hleba\Service\bin\Release\net7.0\publish\System.Threading.Channels.dll
