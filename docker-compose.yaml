@@ -1,0 +1,15 @@
+services:
+  rmq:
+    image: rabbitmq:management
+    ports:
+      - "5672:5672"
+  service1:
+    build: ./Service1/Service
+    depends_on:
+      - rmq
+    ports:
+      - "80:80"
+  service2:
+    build: ./Service2/ConsoleApp1
+    depends_on: 
+      - rmq
